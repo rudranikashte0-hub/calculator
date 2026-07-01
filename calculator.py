@@ -6,7 +6,7 @@ def calculate():
         if operator=='+':
             result=no1+no2
             print(result)
-        elif operator=='-hdjfhbdf':
+        elif operator=='-':
             result=no1-no2
             print(result)
         elif operator=='/':
